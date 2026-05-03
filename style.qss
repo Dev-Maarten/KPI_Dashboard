@@ -1,0 +1,123 @@
+QWidget {
+    background: #ffffff;
+    color: #111111;
+    font-family: Arial;
+}
+
+QLabel {
+    background: transparent;
+}
+
+#screen {
+    background: #ffffff;
+}
+
+#dashboardTitle {
+    color: #111111;
+    font-size: 30px;
+    font-weight: 400;
+    background: transparent;
+}
+
+#summaryCard {
+    background: #f1f2f4;
+    border: 1px solid #b8b8b8;
+    border-radius: 0;
+}
+
+#summaryCard QLabel {
+    background: transparent;
+}
+
+#summaryCard:hover {
+    background: #e8e9eb;
+}
+
+#summaryTitle {
+    color: #111111;
+    font-size: 16px;
+    font-weight: 800;
+    background: transparent;
+}
+
+#summaryValue {
+    color: #111111;
+    font-size: 32px;
+    font-weight: 800;
+    background: transparent;
+}
+
+#summarySubtitle {
+    color: #111111;
+    font-size: 15px;
+    font-weight: 800;
+    background: transparent;
+}
+
+#summaryBody {
+    color: #111111;
+    font-size: 14px;
+    font-weight: 400;
+    background: transparent;
+}
+
+#title {
+    font-size: 22px;
+    font-weight: 800;
+    background: transparent;
+}
+
+#metricCard,
+#chartCard {
+    background: #f1f2f4;
+    border: 1px solid #c7c7c7;
+    border-radius: 0;
+}
+
+#metricCard QLabel,
+#chartCard QLabel {
+    background: transparent;
+}
+
+#cardLabel {
+    color: #111111;
+    font-size: 13px;
+    background: transparent;
+}
+
+#cardValue {
+    color: #111111;
+    font-size: 21px;
+    font-weight: 800;
+    background: transparent;
+}
+
+#metricIcon {
+    font-size: 15px;
+    font-weight: 800;
+}
+
+#sectionTitle {
+    color: #111111;
+    font-size: 18px;
+    font-weight: 800;
+    background: transparent;
+}
+
+#chartSubtitle {
+    color: #111111;
+    font-size: 12px;
+    background: transparent;
+}
+
+#backButton {
+    background: transparent;
+    border: none;
+    color: #333333;
+    font-size: 34px;
+    font-weight: 400;
+}
+
+#backButton:hover {
+    background: #eeeeee;
+}
